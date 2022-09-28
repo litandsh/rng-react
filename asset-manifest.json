@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/litandsh/rng-react.git/static/css/main.8082771e.css",
+    "main.js": "/litandsh/rng-react.git/static/js/main.d4086966.js",
+    "index.html": "/litandsh/rng-react.git/index.html",
+    "main.8082771e.css.map": "/litandsh/rng-react.git/static/css/main.8082771e.css.map",
+    "main.d4086966.js.map": "/litandsh/rng-react.git/static/js/main.d4086966.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8082771e.css",
+    "static/js/main.d4086966.js"
+  ]
+}
