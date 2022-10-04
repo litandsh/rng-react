@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/litandsh/rng-react.git/static/css/main.8082771e.css",
+    "main.css": "/litandsh/rng-react.git/static/css/main.a3277444.css",
     "main.js": "/litandsh/rng-react.git/static/js/main.1bf3d484.js",
     "index.html": "/litandsh/rng-react.git/index.html",
-    "main.8082771e.css.map": "/litandsh/rng-react.git/static/css/main.8082771e.css.map",
+    "main.a3277444.css.map": "/litandsh/rng-react.git/static/css/main.a3277444.css.map",
     "main.1bf3d484.js.map": "/litandsh/rng-react.git/static/js/main.1bf3d484.js.map"
   },
   "entrypoints": [
-    "static/css/main.8082771e.css",
+    "static/css/main.a3277444.css",
     "static/js/main.1bf3d484.js"
   ]
 }
