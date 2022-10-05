@@ -1,5 +1,5 @@
-function generateRandomNum() {
-    return Math.floor(Math.random() * 100)
+function generateRandomNum(maxNum) {
+    return Math.floor(Math.random() * maxNum)
 }
 
 export default generateRandomNum
